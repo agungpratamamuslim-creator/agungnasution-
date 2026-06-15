@@ -25,7 +25,7 @@ const engineer = {
 
 ### ◈ MY TOOLS & TECH STACK
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Bootstrap](https://shields.io) ![Laravel](https://shields.io) ![Canva](https://shields.io) ![Git](https://shields.io)
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 **$ cat learning-journey.md**
 - [ NOW ] Menyelesaikan KKN & Mengamati ekosistem IT Pondok Pesantren
