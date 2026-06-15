@@ -24,14 +24,8 @@ const engineer = {
 **$ ls -la tech/arsenal/**
 
 ### ◈ MY TOOLS & TECH STACK
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Bootstrap" />
-  <img src="https://shields.io" alt="Laravel" />
-  <img src="https://shields.io" alt="Canva" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Bootstrap](https://shields.io) ![Laravel](https://shields.io) ![Canva](https://shields.io) ![Git](https://shields.io)
 
 **$ cat learning-journey.md**
 - [ NOW ] Menyelesaikan KKN & Mengamati ekosistem IT Pondok Pesantren
