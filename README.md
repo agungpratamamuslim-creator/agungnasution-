@@ -1,178 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=PRATAMA&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=60"/>
+# 👋 Halo, Saya Pratama
 
-</div>
+### Full Stack Developer • Mahasiswa Sistem Informasi • Pengembang Aplikasi Web
 
-<h1 align="center">
-⚡ Building Digital Solutions From Ideas
-</h1>
-
-<p align="center">
-Full Stack Developer • Information Systems Student • Indonesia
+<p>
+Membangun solusi digital yang modern, fungsional, dan bermanfaat untuk dunia pendidikan maupun kebutuhan bisnis.
 </p>
-
-<p align="center">
-I build modern web applications, academic systems, learning platforms,
-and digital solutions focused on performance, scalability, and user experience.
-</p>
-
----
-
-## 👨‍💻 Who Am I?
-
-```txt
-Name        : Pratama
-Role        : Full Stack Developer
-Education   : Information Systems Student
-Focus       : Web Development
-Experience  : Academic Systems & Educational Platforms
-Location    : Indonesia
-```
-
-I enjoy transforming ideas into real-world applications.
-
-Currently focusing on:
-
-✓ Academic Information Systems
-
-✓ E-Learning Platforms
-
-✓ School Management Systems
-
-✓ Backend Development
-
-✓ Modern UI/UX
-
----
-
-## ⚙️ Technology Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,mysql,git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-## 🏗 Featured Projects
+# 🚀 Tentang Saya
 
-### 🎓 SIAKAD Enterprise
+Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar pada pengembangan aplikasi berbasis web.
 
-Academic Information System designed for educational institutions.
+Saat ini saya aktif mengembangkan berbagai sistem informasi, platform pembelajaran digital, dan aplikasi manajemen data menggunakan teknologi web modern.
 
-Features:
+Fokus utama saya:
 
-- Student Management
-- Lecturer Management
-- Course Scheduling
-- Academic Reports
-- Dashboard Analytics
+- 🎓 Sistem Informasi Akademik (SIAKAD)
+- 📚 Platform E-Learning
+- 🏫 Sistem Informasi Sekolah
+- 📰 Portal Berita Digital
+- 📊 Sistem Manajemen Data
 
-Tech Stack:
+Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi juga tentang menciptakan solusi yang benar-benar membantu penggunanya.
+
+---
+
+# 💻 Teknologi yang Saya Gunakan
+
+### Backend
+
+- PHP
+- CodeIgniter 4
+- REST API
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- AdminLTE
+
+### Database
+
+- MySQL
+- MariaDB
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Figma
+- XAMPP
+- Postman
+
+---
+
+# 🏗️ Proyek Unggulan
+
+## 🎓 Sistem Informasi Akademik (SIAKAD)
+
+Aplikasi yang dirancang untuk membantu pengelolaan data akademik secara terintegrasi.
+
+### Fitur
+
+- Manajemen Mahasiswa
+- Manajemen Dosen
+- Jadwal Perkuliahan
+- Kartu Rencana Studi (KRS)
+- Kartu Hasil Studi (KHS)
+- Dashboard Akademik
+
+**Teknologi:**
 
 CodeIgniter 4 • MySQL • AdminLTE
 
 ---
 
-### 📚 Smart Learning Platform
+## 📚 Platform E-Learning
 
-Modern E-Learning platform for online education.
+Sistem pembelajaran digital yang memungkinkan proses belajar mengajar dilakukan secara online.
 
-Features:
+### Fitur
 
-- Course Management
-- Online Assignments
-- Learning Materials
-- Assessment System
+- Manajemen Kursus
+- Materi Pembelajaran
+- Tugas dan Penilaian
+- Dashboard Guru dan Siswa
+- Monitoring Pembelajaran
 
-Tech Stack:
+**Teknologi:**
 
-PHP • Bootstrap • MySQL
-
----
-
-### 📰 Digital News Platform
-
-Responsive news portal with modern CMS architecture.
-
-Features:
-
-- News Publishing
-- Category Management
-- SEO Friendly
-- Analytics Dashboard
-
-Tech Stack:
-
-CodeIgniter 4 • Bootstrap
+PHP • MySQL • Bootstrap
 
 ---
 
-## 📊 GitHub Analytics
+## 📰 Portal Berita Digital
 
-<div align="center">
+Website berita modern dengan sistem manajemen konten yang responsif dan mudah digunakan.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Fitur
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
+- Manajemen Artikel
+- Kategori Berita
+- Berita Utama
+- Optimasi SEO
+- Dashboard Admin
 
-</div>
+**Teknologi:**
 
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight"/>
-
-</div>
+CodeIgniter 4 • Bootstrap • MySQL
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Fokus Pengembangan Saat Ini
 
-🚀 Launch Production-Ready Applications
+Saat ini saya sedang mendalami:
 
-📚 Master Laravel Ecosystem
-
-☁ Learn Cloud Deployment
-
-🔒 Improve Security & Architecture Skills
-
-🌎 Contribute to Open Source
+- Pengembangan Full Stack Web
+- Arsitektur Sistem Informasi
+- RESTful API
+- UI/UX Design
+- Keamanan Aplikasi Web
+- Optimasi Database
 
 ---
 
-## 💡 Development Philosophy
+# 📈 Perjalanan Saya
 
-```javascript
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
+```text
+2024
+│
+├── Mempelajari Dasar Pemrograman Web
+│
+├── Mengenal PHP dan MySQL
+│
+└── Mulai Membangun Project Pertama
+│
+2025
+│
+├── Mendalami CodeIgniter 4
+│
+├── Mengembangkan Sistem Informasi
+│
+└── Membangun Platform E-Learning
+│
+2026
+│
+├── Fokus Full Stack Development
+│
+├── Pengembangan SIAKAD Modern
+│
+└── Membangun Portofolio Profesional
+```
+
+---
+
+# 💡 Filosofi Pengembangan
+
+```php
+while ($masihBelajar) {
+
+    belajar();
+
+    mencoba();
+
+    memperbaiki();
+
+    berkembang();
 }
 ```
 
 ---
 
-## 🌐 Let's Connect
+# 📌 Target Saya
 
-GitHub     : https://github.com/USERNAME
+- 🚀 Membangun aplikasi yang digunakan banyak orang
+- 📚 Menjadi Full Stack Developer yang kompeten
+- 💻 Menghasilkan sistem yang bermanfaat bagi dunia pendidikan
+- 🌱 Terus belajar dan berkembang setiap hari
+- 🤝 Berkontribusi pada proyek open source
 
-Portfolio  : Coming Soon
+---
 
-LinkedIn   : Your LinkedIn
+# 📬 Hubungi Saya
 
-Email      : your@email.com
+📧 Email : your@email.com
+
+💼 GitHub : https://github.com/USERNAME
+
+🌐 Portfolio : Dalam Pengembangan
 
 ---
 
 <div align="center">
 
-### "Great Software Starts With Great Ideas."
+## "Belajar, Membangun, dan Terus Berkembang."
+
+Terima kasih telah mengunjungi profil GitHub saya 🙌
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0F172A"/>
