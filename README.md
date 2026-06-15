@@ -1,208 +1,158 @@
 <div align="center">
 
-# 👋 Halo, Saya Pratama
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AGUNGP%20RATAMA&fontSize=70&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=58"/>
 
-### Full Stack Developer • Mahasiswa Sistem Informasi • Pengembang Aplikasi Web
+# 👋 Halo, Saya Agung Pratama
 
-<p>
-Membangun solusi digital yang modern, fungsional, dan bermanfaat untuk dunia pendidikan maupun kebutuhan bisnis.
-</p>
+### Mahasiswa PTIK UIN BUKITTINGGI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Membangun+Sistem+Informasi;Mengembangkan+Platform+E-Learning;Menciptakan+Pengalaman+Digital+Modern;Selalu+Belajar+Teknologi+Baru"/>
 
 </div>
 
 ---
 
-# 🚀 Tentang Saya
+<table>
+<tr>
+<td width="60%">
 
-Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar pada pengembangan aplikasi berbasis web.
+## 🚀 Tentang Saya
 
-Saat ini saya aktif mengembangkan berbagai sistem informasi, platform pembelajaran digital, dan aplikasi manajemen data menggunakan teknologi web modern.
+Saya adalah mahasiswa Pendidikan Teknik Informartika dan Komputer yang berfokus pada pengembangan aplikasi web modern.
 
-Fokus utama saya:
+Saat ini aktif mengembangkan:
 
-- 🎓 Sistem Informasi Akademik (SIAKAD)
-- 📚 Platform E-Learning
-- 🏫 Sistem Informasi Sekolah
-- 📰 Portal Berita Digital
-- 📊 Sistem Manajemen Data
+🎓 Sistem Informasi Akademik
 
-Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi juga tentang menciptakan solusi yang benar-benar membantu penggunanya.
+📚 Platform E-Learning
 
----
+🏫 Sistem Informasi Sekolah
 
-# 💻 Teknologi yang Saya Gunakan
+📰 Portal Berita Digital
 
-### Backend
+</td>
 
-- PHP
-- CodeIgniter 4
-- REST API
+<td width="40%">
 
-### Frontend
+<img src="https://github-readme-stats.vercel.app/api?username=agungpratamamuslim-creator&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- AdminLTE
-
-### Database
-
-- MySQL
-- MariaDB
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Figma
-- XAMPP
-- Postman
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏗️ Proyek Unggulan
+## ⚡ Tech Stack
 
-## 🎓 Sistem Informasi Akademik (SIAKAD)
+<div align="center">
 
-Aplikasi yang dirancang untuk membantu pengelolaan data akademik secara terintegrasi.
+<img src="https://skillicons.dev/icons?i=php,html,css,js,bootstrap,mysql,git,github,vscode,figma,postman"/>
 
-### Fitur
-
-- Manajemen Mahasiswa
-- Manajemen Dosen
-- Jadwal Perkuliahan
-- Kartu Rencana Studi (KRS)
-- Kartu Hasil Studi (KHS)
-- Dashboard Akademik
-
-**Teknologi:**
-
-CodeIgniter 4 • MySQL • AdminLTE
+</div>
 
 ---
 
-## 📚 Platform E-Learning
+## 🏗️ Project Unggulan
 
-Sistem pembelajaran digital yang memungkinkan proses belajar mengajar dilakukan secara online.
+<table>
+<tr>
+<td width="50%">
 
-### Fitur
+### 🎓 SIAKAD
 
-- Manajemen Kursus
-- Materi Pembelajaran
-- Tugas dan Penilaian
-- Dashboard Guru dan Siswa
-- Monitoring Pembelajaran
+Sistem Informasi Akademik modern berbasis CodeIgniter 4.
 
-**Teknologi:**
+✔ Manajemen Mahasiswa
 
-PHP • MySQL • Bootstrap
+✔ Jadwal Kuliah
 
----
+✔ KRS & KHS
 
-## 📰 Portal Berita Digital
+✔ Dashboard Akademik
 
-Website berita modern dengan sistem manajemen konten yang responsif dan mudah digunakan.
+</td>
 
-### Fitur
+<td width="50%">
 
-- Manajemen Artikel
-- Kategori Berita
-- Berita Utama
-- Optimasi SEO
-- Dashboard Admin
+### 📚 E-Learning
 
-**Teknologi:**
+Platform pembelajaran digital.
 
-CodeIgniter 4 • Bootstrap • MySQL
+✔ Kursus Online
 
----
+✔ Tugas
 
-# 🎯 Fokus Pengembangan Saat Ini
+✔ Penilaian
 
-Saat ini saya sedang mendalami:
+✔ Dashboard Guru & Siswa
 
-- Pengembangan Full Stack Web
-- Arsitektur Sistem Informasi
-- RESTful API
-- UI/UX Design
-- Keamanan Aplikasi Web
-- Optimasi Database
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-# 📈 Perjalanan Saya
+### 📰 Portal Berita
 
-```text
-2024
-│
-├── Mempelajari Dasar Pemrograman Web
-│
-├── Mengenal PHP dan MySQL
-│
-└── Mulai Membangun Project Pertama
-│
-2025
-│
-├── Mendalami CodeIgniter 4
-│
-├── Mengembangkan Sistem Informasi
-│
-└── Membangun Platform E-Learning
-│
-2026
-│
-├── Fokus Full Stack Development
-│
-├── Pengembangan SIAKAD Modern
-│
-└── Membangun Portofolio Profesional
-```
+Website berita responsif dan modern.
+
+</td>
+
+<td width="50%">
+
+### 🏫 Sistem Informasi Sekolah
+
+Digitalisasi administrasi sekolah.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💡 Filosofi Pengembangan
+## 📊 Aktivitas GitHub
 
-```php
-while ($masihBelajar) {
+<div align="center">
 
-    belajar();
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agungpratamamuslim-creator&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-    mencoba();
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=agungpratamamuslim-creator&theme=tokyonight&hide_border=true"/>
 
-    memperbaiki();
+</div>
 
-    berkembang();
-}
-```
+<br>
 
----
+<div align="center">
 
-# 📌 Target Saya
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agungpratamamuslim-creator&theme=tokyonight"/>
 
-- 🚀 Membangun aplikasi yang digunakan banyak orang
-- 📚 Menjadi Full Stack Developer yang kompeten
-- 💻 Menghasilkan sistem yang bermanfaat bagi dunia pendidikan
-- 🌱 Terus belajar dan berkembang setiap hari
-- 🤝 Berkontribusi pada proyek open source
+</div>
 
 ---
 
-# 📬 Hubungi Saya
+## 🎯 Roadmap 2026
 
-📧 Email : your@email.com
+🟢 Menyelesaikan SIAKAD Modern
 
-💼 GitHub : https://github.com/USERNAME
+🟢 Mengembangkan Platform E-Learning
 
-🌐 Portfolio : Dalam Pengembangan
+🟢 Belajar Laravel
+
+🟢 Mempelajari REST API
+
+🟢 Memperdalam UI/UX
+
+🟢 Membangun Portofolio Profesional
 
 ---
 
 <div align="center">
 
-## "Belajar, Membangun, dan Terus Berkembang."
+### 💡 Filosofi
 
-Terima kasih telah mengunjungi profil GitHub saya 🙌
+> "Belajar bukan untuk menjadi yang terbaik,
+> tetapi untuk menjadi lebih baik setiap hari."
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
