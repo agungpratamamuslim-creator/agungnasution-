@@ -1,25 +1,23 @@
 # 👋 Halo, Saya @agungpratamamuslim-creator!
 
-╔══════════════════════════════════════════════════════════════════╗
-║ SYSTEM PROFILE                                                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║ Operator : Agung Pratama Muslim                                  ║
-║ Class    : Informatics Education Student · Fullstack Learner     ║
-║ Region   : Bukittinggi, Sumatera Barat · UTC+7                   ║
-║ Status   : [ ACTIVE ] Kuliah Kerja Nyata (KKN)                   ║
-║ Mission  : Persiapan PPL Juli 2026 @ Ponpes Bai'aturridhwan      ║
-╚══════════════════════════════════════════════════════════════════╝
+```bash
+[SYSTEM PROFILE]
+Owner       : Agung Pratama Muslim
+Class       : Informatics Education Student (PTIK)
+College     : UIN Sjech M. Djamil Djambek Bukittinggi
+Status      : [ACTIVE] Sedang KKN & Bersiap PPL Juli 2026
+Target PPL  : Pondok Pesantren Bai'aturridhwan
+```
 
 **$ whoami --verbose**
 
 ```javascript
 const engineer = {
   name: "Agung Pratama Muslim",
-  college: "UIN Sjech M. Djamil Djambek Bukittinggi",
-  major: "Pendidikan Teknik Informatika dan Komputer (PTIK)",
+  major: "Pendidikan Teknik Informatika dan Komputer",
   current_focus: ["HTML5", "CSS3", "Bootstrap", "Laravel Basics"],
-  interests: ["Game Edukasi", "Multimedia Interaktif", "Web Development"],
-  philosophy: "Mulai dari dasar, pelajari prosesnya, kurangi drama error."
+  interests: ["Game Edukasi", "Multimedia Interaktif", "Web Dev"],
+  philosophy: "Mulai dari dasar, pelajari prosesnya, kurangi error."
 };
 ```
 
@@ -36,12 +34,8 @@ const engineer = {
 </p>
 
 **$ cat learning-journey.md**
-
 - [ NOW ] Menyelesaikan KKN & Mengamati ekosistem IT Pondok Pesantren
 - [ NEXT ] PPL Juli 2026 — Riset media pembelajaran interaktif untuk santri
 - [ FUTURE ] Menyusun Proposal Skripsi R&D PTIK UIN Bukittinggi
 
-**$ connect --open**
-
-[![Discord](https://shields.io)](https://discord.com)
 ---
