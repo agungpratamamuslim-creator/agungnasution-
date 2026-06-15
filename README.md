@@ -1,92 +1,68 @@
 <div align="center">
 
-# 👋 Hello, I'm Pratama
-
-### Full Stack Developer • Information Systems Student • Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;CodeIgniter+4+Developer;Backend+%26+Frontend+Engineer;Always+Building+Something+New" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=PRATAMA&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descAlignY=60"/>
 
 </div>
 
+<h1 align="center">
+⚡ Building Digital Solutions From Ideas
+</h1>
+
+<p align="center">
+Full Stack Developer • Information Systems Student • Indonesia
+</p>
+
+<p align="center">
+I build modern web applications, academic systems, learning platforms,
+and digital solutions focused on performance, scalability, and user experience.
+</p>
+
 ---
 
-# 🚀 About Me
+## 👨‍💻 Who Am I?
 
-```javascript
-const pratama = {
-    role: "Full Stack Developer",
-    education: "Information Systems Student",
-    location: "Indonesia",
-    languages: ["PHP", "JavaScript", "HTML", "CSS"],
-    frameworks: ["CodeIgniter 4", "Bootstrap", "AdminLTE"],
-    database: ["MySQL"],
-    currentlyWorkingOn: [
-        "Academic Information System",
-        "E-Learning Platform",
-        "School Information System"
-    ],
-    learning: [
-        "Laravel",
-        "REST API",
-        "System Architecture",
-        "UI/UX Design"
-    ]
-};
+```txt
+Name        : Pratama
+Role        : Full Stack Developer
+Education   : Information Systems Student
+Focus       : Web Development
+Experience  : Academic Systems & Educational Platforms
+Location    : Indonesia
 ```
 
----
+I enjoy transforming ideas into real-world applications.
 
-# 💻 Tech Stack
+Currently focusing on:
 
-### Frontend
+✓ Academic Information Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+✓ E-Learning Platforms
 
-### Backend
+✓ School Management Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,nodejs" />
-</p>
+✓ Backend Development
 
-### Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+✓ Modern UI/UX
 
 ---
 
-# 📊 GitHub Statistics
+## ⚙️ Technology Arsenal
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,mysql,git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-# 🏆 Featured Projects
+## 🏗 Featured Projects
 
-## 🎓 Academic Information System
+### 🎓 SIAKAD Enterprise
 
-Complete academic management platform featuring:
+Academic Information System designed for educational institutions.
+
+Features:
 
 - Student Management
 - Lecturer Management
@@ -94,84 +70,109 @@ Complete academic management platform featuring:
 - Academic Reports
 - Dashboard Analytics
 
-### Tech
+Tech Stack:
 
-`CodeIgniter 4` `MySQL` `AdminLTE`
+CodeIgniter 4 • MySQL • AdminLTE
 
 ---
 
-## 📚 E-Learning Platform
+### 📚 Smart Learning Platform
 
-Online learning system with:
+Modern E-Learning platform for online education.
+
+Features:
 
 - Course Management
-- Material Upload
-- Assignment Submission
-- Student Assessment
-- Learning Analytics
+- Online Assignments
+- Learning Materials
+- Assessment System
 
-### Tech
+Tech Stack:
 
-`PHP` `MySQL` `Bootstrap`
+PHP • Bootstrap • MySQL
 
 ---
 
-## 📰 News Portal
+### 📰 Digital News Platform
 
-Modern responsive news website featuring:
+Responsive news portal with modern CMS architecture.
 
+Features:
+
+- News Publishing
 - Category Management
-- Breaking News
-- User Comments
-- SEO Optimization
-- Admin Dashboard
+- SEO Friendly
+- Analytics Dashboard
 
-### Tech
+Tech Stack:
 
-`CodeIgniter 4` `Bootstrap`
+CodeIgniter 4 • Bootstrap
 
 ---
 
-# 📈 Contribution Activity
+## 📊 GitHub Analytics
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 🎯 Current Goals
+## 🎯 2026 Goals
 
-- 🚀 Build scalable web applications
-- 📚 Master Laravel Framework
-- 🔥 Improve System Architecture Skills
-- 💡 Learn Modern Frontend Technologies
-- 🌍 Contribute to Open Source Projects
+🚀 Launch Production-Ready Applications
+
+📚 Master Laravel Ecosystem
+
+☁ Learn Cloud Deployment
+
+🔒 Improve Security & Architecture Skills
+
+🌎 Contribute to Open Source
 
 ---
 
-# 🌐 Connect With Me
+## 💡 Development Philosophy
 
-<p align="center">
+```javascript
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## 🌐 Let's Connect
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+GitHub     : https://github.com/USERNAME
 
-</p>
+Portfolio  : Coming Soon
+
+LinkedIn   : Your LinkedIn
+
+Email      : your@email.com
 
 ---
 
 <div align="center">
 
-### 💭 Favorite Quote
-
-*"First, solve the problem. Then, write the code."*
+### "Great Software Starts With Great Ideas."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0F172A"/>
